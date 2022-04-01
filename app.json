@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first react native app",
+    "githubUrl": "https://github.com/Priya9136/DoneWithIt"
   }
 }
